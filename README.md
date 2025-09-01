@@ -34,7 +34,11 @@ not following back: 380
 **Generated Files:**
 
 CSV files are created in the `output/` directory:
-- `followers.txt`: Complete followers list
-- `following.txt`: Complete following list
-- `pending_follow_requests.txt`: Pending follow requests
-- `not_following_back.txt`: Users you follow who don't follow back
+- `followers.csv`: Complete followers list
+- `following.csv`: Complete following list
+- `pending_follow_requests.csv`: Pending follow requests
+- `not_following_back.csv`: Users you follow who don't follow back
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
