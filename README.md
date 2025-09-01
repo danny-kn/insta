@@ -37,4 +37,4 @@ CSV files are created in the `output/` directory:
 - `followers.txt`: Complete followers list
 - `following.txt`: Complete following list
 - `pending_follow_requests.txt`: Pending follow requests
-- `insta.txt`: Users you follow who don't follow back
+- `not_following_back.txt`: Users you follow who don't follow back
