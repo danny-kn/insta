@@ -1,6 +1,6 @@
 # Instagram JSON to CSV Converter
 
-In this project, I implement an Instagram JSON to CSV converter in Python to identify follower relationship patterns. The program uses type-safe data processing mechanisms with robust error handling to parse JSON exports and produce clean, structured CSV output.
+In this project, I implement an Instagram JSON to CSV converter in Python to identify relationship patterns. The program uses type-safe data processing mechanisms with robust error handling to parse JSON exports and produce clean, structured CSV output.
 
 ## Usage
 
