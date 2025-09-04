@@ -1,6 +1,6 @@
-# Instagram Data Processing and Analysis
+# Instagram JSON to CSV Converter
 
-In this project, I implement an Instagram data processing system in Python that analyzes exported Instagram data to generate CSV reports and identify follower relationship patterns. The program uses type-safe data processing mechanisms with robust error handling to parse JSON exports and produce clean, structured output.
+In this project, I implement an Instagram JSON to CSV converter in Python to identify follower relationship patterns. The program uses type-safe data processing mechanisms with robust error handling to parse JSON exports and produce clean, structured CSV output.
 
 ## Usage
 
